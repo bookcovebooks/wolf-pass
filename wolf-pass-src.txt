@@ -808,6 +808,10 @@ of _Redbook_ magazine.]
 .ns 1
 .end
 .html
-<div class="tn">Transcriber’s note: This story appeared in the
-September, 1930 issue of <i>Redbook</i> magazine.</div>
+<div class="tn">Transcriber’s Notes:
+<ol><li>This story appeared in the
+September, 1930 issue of <i>Redbook</i> magazine.</li>
+<li>The cover image for this electronic edition was created by the transcriber as no usable original cover art was available. It is a modern illustration inspired by scenes from the story and by period magazine artwork, and is not part of the original publication. The image has been placed in the public domain.</li>
+</ol>
+</div>
 .end
